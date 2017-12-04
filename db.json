@@ -1,1 +1,33 @@
-
+{
+  "article": [
+    {
+      "id": "1",
+      "title": "T1",
+      "slug": "TS1",
+      "comment": "TCM1",
+      "subtitle": "TST1",
+      "author": "TAU1",
+      "lang": "fr",
+      "photo_file_name": "file1.png",
+      "date_posted": "2017/01/01",
+      "chapter": "1",
+      "content": "lorem ispum",
+      "chapter_id": "1",
+      "subchapter_id": "1"
+    },
+    {
+      "id": "2",
+      "title": "T2",
+      "slug": "TS2",
+      "comment": "TCM2",
+      "subtitle": "TST2",
+      "author": "TAU2",
+      "lang": "fr",
+      "photo_file_name": "file2.png",
+      "date_posted": "2017/01/01",
+      "content": "lorem ispum",
+      "chapter_id": "2",
+      "subchapter_id": "2"
+    }
+  ]
+}
